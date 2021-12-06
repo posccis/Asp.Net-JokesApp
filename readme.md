@@ -12,9 +12,9 @@
 
 ## ➕Some views 
 
- 	The framework is very fast and generate very quickly a lot of code for the developer. With some clicks you can have a home page with login and register and also make the migration with the data base and create the controller you also can have a view with a complete CRUD for your table.
+​	The framework is very fast and generate very quickly a lot of code for the developer. With some clicks you can have a home page with login and register and also make the migration with the data base and create the controller you also can have a view with a complete CRUD for your table.
 
-![jokespage](C:\Users\lkzq\source\repos\JokesWebApp\jokespage.PNG)
+<img src="jokespage.PNG">
 
 
 
